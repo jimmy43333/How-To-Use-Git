@@ -17,15 +17,15 @@ https://git-for-windows.github.io/
 http://code.google.com/p/tortoisegit/
 
 #Basic Instruction
-git init
-git status
-git add "filename"
-git add .
-git commit -m "comment"
-git log
+git init <br>
+git status <br>
+git add "filename" <br>
+git add .<br>
+git commit -m "comment" <br>
+git log <br>
 
-git remote add origin URL
-git remote -v 
-git push -u origin master
-git pull origin master
+git remote add origin URL <br>
+git remote -v <br>
+git push -u origin master <br>
+git pull origin master <br>
 
