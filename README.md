@@ -4,12 +4,12 @@ sudo apt-get install git
 git config --global user.name "Your name"
 git config --global user.email "Your email"
 
-##reference
+####reference
 https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
 
 #Install Git in Windows
 
-##reference
+####reference
 https://git-scm.com/
 https://git-for-windows.github.io/
 http://code.google.com/p/tortoisegit/
