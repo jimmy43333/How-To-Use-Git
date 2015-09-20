@@ -1,8 +1,8 @@
 ##Install Git in Ubuntu
-sudo apt-get update
-sudo apt-get install git
-git config --global user.name "Your name"
-git config --global user.email "Your email"
+sudo apt-get update <br>
+sudo apt-get install git <br>
+git config --global user.name "Your name" <br>
+git config --global user.email "Your email" <br>
 
 ####reference
 https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
