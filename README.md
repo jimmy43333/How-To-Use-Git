@@ -1,4 +1,4 @@
-#Install Git in Ubunto
+##Install Git in Ubunto
 sudo apt-get update
 sudo apt-get install git
 git config --global user.name "Your name"
@@ -7,7 +7,7 @@ git config --global user.email "Your email"
 ####reference
 https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
 
-#Install Git in Windows
+##Install Git in Windows
 
 ####reference
 https://git-scm.com/
@@ -16,7 +16,7 @@ https://git-for-windows.github.io/
 <br>
 http://code.google.com/p/tortoisegit/
 
-#Basic Instruction
+##Basic Instruction
 git init <br>
 git status <br>
 git add "filename" <br>
