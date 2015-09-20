@@ -11,7 +11,9 @@ https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14
 
 ####reference
 https://git-scm.com/
+<br>
 https://git-for-windows.github.io/
+<br>
 http://code.google.com/p/tortoisegit/
 
 #Basic Instruction
