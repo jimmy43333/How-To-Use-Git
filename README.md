@@ -27,7 +27,7 @@ git remote -v <br>
 git push -u origin master <br>
 git pull origin master <br>
 
-<span style="color:red;">Learn Git</span>
+<span color=red>Learn Git</span>
 >https://git-scm.com/doc
 
 
