@@ -5,7 +5,7 @@ git config --global user.name "Your name" <br>
 git config --global user.email "Your email" <br>
 
 ####reference
-https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
+>https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
 
 ##Install Git in Windows
 
