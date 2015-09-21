@@ -10,11 +10,9 @@ https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14
 ##Install Git in Windows
 
 ####reference
-https://git-scm.com/
-<br>
-https://git-for-windows.github.io/
-<br>
-http://code.google.com/p/tortoisegit/
+>https://git-scm.com/
+>https://git-for-windows.github.io/
+>http://code.google.com/p/tortoisegit/
 
 ##Basic Instruction
 git init <br>
@@ -28,4 +26,8 @@ git remote add origin URL <br>
 git remote -v <br>
 git push -u origin master <br>
 git pull origin master <br>
+
+##<style color= blue>Learn Git</style>
+>https://git-scm.com/doc
+
 
