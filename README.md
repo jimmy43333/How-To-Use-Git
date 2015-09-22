@@ -10,9 +10,10 @@ git config --global user.email "Your email" <br>
 ##Install Git in Windows
 
 ####reference
->https://git-scm.com/
->https://git-for-windows.github.io/
->http://code.google.com/p/tortoisegit/
+>https://git-scm.com/  
+>https://git-for-windows.github.io/  
+>http://code.google.com/p/tortoisegit/  
+
 
 ##Basic Instruction
 git init <br>
