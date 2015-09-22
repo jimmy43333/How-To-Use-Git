@@ -11,7 +11,6 @@ git config --global user.email "Your email" <br>
 
 ####reference
 >https://git-scm.com/  
->https://git-for-windows.github.io/  
 >http://code.google.com/p/tortoisegit/  
 
 
