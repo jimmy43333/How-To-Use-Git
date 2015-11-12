@@ -30,6 +30,8 @@ git pull origin master <br>
 git remote rm <name> <br>
 git remote rename <origin> <new> <br>
 
+git clone <name> <br>
+
 ##Learn Git
 >https://git-scm.com/doc
 
