@@ -27,6 +27,9 @@ git remote -v <br>
 git push -u origin master <br>
 git pull origin master <br>
 
+git remote rm <name> <br>
+git remote rename <origin> <new> <br>
+
 ##Learn Git
 >https://git-scm.com/doc
 
