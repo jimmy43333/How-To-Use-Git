@@ -1,21 +1,20 @@
-##Install Git in Ubuntu
-=========================
+## Install Git in Ubuntu
 sudo apt-get update <br>
 sudo apt-get install git <br>
 git config --global user.name "Your name" <br>
 git config --global user.email "Your email" <br>
 
-####reference
+#### reference
 >https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
 
-##Install Git in Windows
+## Install Git in Windows
 
-####reference
+#### reference
 >https://git-scm.com/  
 >http://code.google.com/p/tortoisegit/  
 
 
-##Basic Instruction
+## Basic Instruction
 git init <br>
 git status <br>
 git add "filename" <br>
@@ -33,7 +32,7 @@ git remote rename "origin" "new" <br>
 
 git clone "URL.git" <br>
 
-##Learn Git
+## Learn Git
 >https://git-scm.com/doc
 
 
