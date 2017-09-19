@@ -7,8 +7,7 @@ git config --global user.email "Your email" <br>
 #### reference
 >https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
 
-## Install Git in Windows
-
+## Install Git in Windows  
 #### reference
 >https://git-scm.com/  
 >http://code.google.com/p/tortoisegit/  
@@ -32,7 +31,8 @@ git remote rename "origin" "new" <br>
 
 git clone "URL.git" <br>
 
-## Learn Git
+## Learn Git  
+#### reference
 >https://git-scm.com/doc
 
 
