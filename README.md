@@ -1,4 +1,4 @@
-##Install Git in Ubuntu##
+##Install Git in Ubuntu
 sudo apt-get update <br>
 sudo apt-get install git <br>
 git config --global user.name "Your name" <br>
