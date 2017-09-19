@@ -34,6 +34,7 @@ git clone "URL.git" <br>
 
 
 ## Reference
->https://git-scm.com/doc
+>https://git-scm.com/doc  
+>https://git-scm.com/book/zh-tw/v2/開始-Git-安裝教學
 
 
