@@ -1,6 +1,8 @@
-git init <br>
-git status <br>
-git commit -m "comment"  
+### First time use git in local file
+  git init <br>             //Create .git directory
+  git add .                 //Add all existing file in the index 
+  git commit -m "comment"   //Add the first comment
+  git status <br>           //Check the status
 ***
 git add "filename" <br>
 git add .<br>
