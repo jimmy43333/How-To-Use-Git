@@ -1,11 +1,16 @@
 ### First time use git in local file
-  git init <br>             //Create .git directory
-  git add .                 //Add all existing file in the index 
-  git commit -m "comment"   //Add the first comment
-  git status <br>           //Check the status
-***
-git add "filename" <br>
-git add .<br>
+    git init <br>             //Create .git directory
+    git add .                 //Add all existing file in the index 
+    git commit -m "comment"   //Add the first comment
+    git status <br>           //Check the status
+### Clone the repository from github  
+    git clone "URL.git"  
+### Work with online repository  
+    git remote -v                   //Check the repository
+    git remote add origin URL       //Add the new repository to local file  
+    git remote rm "name"            //Delete the repository
+    git remote  
+
 ***
 git log <br>
 ***
