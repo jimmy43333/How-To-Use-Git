@@ -7,19 +7,13 @@
     git clone "URL.git"  
 ### Work with online repository  
     git remote -v                   //Check the repository
-    git remote add origin URL       //Add the new repository to local file  
-    git remote rm "name"            //Delete the repository
-    git remote  
+    git remote add origin “URL”     //Add the new repository to local file  
+    git pull origin master          //pull the file from master
+    git push -u origin master       //upload the file after add
 
 ***
-git log <br>
-***
-git remote add origin URL <br>
-git remote -v <br>
+git remote add origin URL <br>     
 git remote rm "name" <br> 
 git remote rename "origin" "new" <br>  
-***
 git pull origin master  
 git push -u origin master <br> 
-***
-git clone "URL.git" <br>
