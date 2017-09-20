@@ -7,8 +7,8 @@
     git clone "URL.git"  
 ### Work with online repository  
     git remote -v                   //Check the repository  
-    git remote add origin “URL”     //Add the new repository to local file  
-    git pull origin master          //pull the file from master  
+    git remote add origin “URL”     //Add the new repository to local file   
+    git pull origin master          //pull the file from master  
     git push -u origin master       //upload the file after add  
 
 ***
