@@ -11,9 +11,25 @@
     git pull origin master          //pull the file from master  
     git push -u origin master       //upload the file after add  
 
-***
-git remote add origin URL <br>     
-git remote rm "name" <br> 
-git remote rename "origin" "new" <br>  
-git pull origin master  
-git push -u origin master <br> 
+### Remote control
+    git remote add origin URL <br>     
+    git remote rm "name" <br> 
+    git remote rename "origin" "new" <br>  
+    git pull origin master  
+    git push -u origin master <br> 
+
+### Branch
+    git branch branchName
+    git checkout branchName
+    (checkout to the master)
+    git merge branchName
+
+    git branch -d <branch> //Remove Branch
+
+### Reset commit
+    git reset --soft HEAD^  #uncommit and remain the change
+    git reset --hard HEAD^  #uncommit and remove the change
+
+### log
+    git log --oneline
+    git rebase 
