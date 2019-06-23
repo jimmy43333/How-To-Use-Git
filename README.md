@@ -21,4 +21,7 @@ check the git : git --version
 >https://git-scm.com/doc  
 >https://git-scm.com/book/zh-tw/v2/開始-Git-安裝教學
 
+## How to write good README.md
+>https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
+
 
